@@ -1,0 +1,5 @@
+.vscode
+.idea
+
+~$*.docx
+.DS_Store
